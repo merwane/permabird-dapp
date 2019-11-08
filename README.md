@@ -1,6 +1,8 @@
 Permabird: Store and search tweets about a given subject on Arweave's Blockchain
 ==============================================
 
+**Permabird-dapp** is a search interface for tweets permanently stored with [Permabird](https://github.com/merwane/permabird)
+
 ## It is constantly available [here](https://arweave.net/mbLTStjp0H-MaOIfSX3h5ouTGeMKldboFX2qf5MIrQE).
 
 
